@@ -16,6 +16,7 @@
 
 ---
 
+
 ## 🎯 How to Play
 
 1. Press **Start** to begin the game.
