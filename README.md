@@ -13,6 +13,7 @@
 
 **Simon** is a digital recreation of the iconic memory game. The game challenges players to repeat a growing sequence of colored button flashes. Each round adds one more step to the sequence — how far can you go?
 
+
 ---
 
 ## 🎯 How to Play
