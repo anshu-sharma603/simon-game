@@ -21,6 +21,7 @@
 
 ## 🎯 How to Play
 
+
 1. Press **Start** to begin the game.
 2. Watch the sequence of colored buttons that light up.
 3. Repeat the sequence by clicking the buttons **in the same order**.
