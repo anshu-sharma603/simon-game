@@ -1,5 +1,6 @@
 # 🎮 Simon
 
+
 > A classic memory game built with modern web technologies — by **Anshu**
 
 ![Game](https://img.shields.io/badge/Game-Simon-brightgreen?style=flat-square)
